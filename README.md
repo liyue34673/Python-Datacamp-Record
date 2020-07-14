@@ -14,9 +14,7 @@ This repository will record my python learning process in Datacamp, including co
   7) Python Data Science Toolbox (Part 1) https://www.datacamp.com/statement-of-accomplishment/course/db1e81a3fc9fae84f8341f00eca116e64c5760bf
 ## Projects
 ### Finished
-(You could find the detail of each project in the jupyter notebook in differnet branches):
+(You could find the detail of each project in the jupyter notebook.):
   1) PROJECT_1: TV, Halftime Shows, and the Big Game 
-  
-    branch: liyue34673-patch-project1
   2) PROJECT_2: The Android App Market on Google Play
   3) PROJECT_3: The GitHub History of the Scala Language
