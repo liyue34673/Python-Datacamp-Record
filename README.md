@@ -16,7 +16,8 @@ This repository will record my python learning process in Datacamp, including co
   9) Intermediate Data Visualization with Seaborn https://www.datacamp.com/statement-of-accomplishment/course/f37148162145f343e8d84eb0b868e76dc0e35958
 ## Projects
 ### Finished
-(You could find the detail of each project in the jupyter notebook.):
+(You could find the detail of each project in the jupyter notebook.)
   1) PROJECT_1: TV, Halftime Shows, and the Big Game 
   2) PROJECT_2: The Android App Market on Google Play
   3) PROJECT_3: The GitHub History of the Scala Language
+  4) PROJECT_4: A Visual History of Nobel Prize Winners
