@@ -14,6 +14,7 @@ This repository will record my python learning process in Datacamp, including co
   7) Python Data Science Toolbox (Part 1) https://www.datacamp.com/statement-of-accomplishment/course/db1e81a3fc9fae84f8341f00eca116e64c5760bf
   8) Python Data Science Toolbox (Part 2) https://www.datacamp.com/statement-of-accomplishment/course/68098e947ada0d212441459d3015298ffb0a2c69
   9) Intermediate Data Visualization with Seaborn https://www.datacamp.com/statement-of-accomplishment/course/f37148162145f343e8d84eb0b868e76dc0e35958
+  10) Introduction to Importing Data in Python https://www.datacamp.com/statement-of-accomplishment/course/e791cf9c8ad0177df36a7494231c989f5bac0698
 ## Projects
 ### Finished
 (You could find the detail of each project in the jupyter notebook.)
