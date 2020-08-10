@@ -1,7 +1,7 @@
 # Python-Datacamp-Record
 This repository will record my python learning process in Datacamp, including courses and projects.
 # Career Track
-  Data Scientist with Python (currently enroll)
+  1. Data Scientist with Python (currently enroll)
 ## Courses
 ### Finished 
 (You could find the STATEMENT OF ACCOMPLISHMENT in the subsequent link):
@@ -25,3 +25,10 @@ This repository will record my python learning process in Datacamp, including co
   2) PROJECT_2: The Android App Market on Google Play
   3) PROJECT_3: The GitHub History of the Scala Language
   4) PROJECT_4: A Visual History of Nobel Prize Winners
+
+# Career Track
+  2. Machine Learning Scientist with Python (currently enroll) 
+## Courses
+### Finished 
+(You could find the STATEMENT OF ACCOMPLISHMENT in the subsequent link):
+  1) Supervised Learning with scikit-learn https://www.datacamp.com/statement-of-accomplishment/course/19dd37777f0bcb5b1e448db4812dc017cab93dfc
