@@ -32,3 +32,11 @@ This repository will record my python learning process in Datacamp, including co
 ### Finished 
 (You could find the STATEMENT OF ACCOMPLISHMENT in the subsequent link):
   1) Supervised Learning with scikit-learn https://www.datacamp.com/statement-of-accomplishment/course/19dd37777f0bcb5b1e448db4812dc017cab93dfc
+
+# Career Track
+  3. Marketing Analytics with Python (currently enroll) 
+## Courses
+### Finished 
+(You could find the STATEMENT OF ACCOMPLISHMENT in the subsequent link):
+  1) Customer Segmentation in Python https://www.datacamp.com/statement-of-accomplishment/course/e2262a1266df87bc6a41c6eb4b03c2e956e8970c
+
