@@ -39,4 +39,5 @@ This repository will record my python learning process in Datacamp, including co
 ### Finished 
 (You could find the STATEMENT OF ACCOMPLISHMENT in the subsequent link):
   1) Customer Segmentation in Python https://www.datacamp.com/statement-of-accomplishment/course/e2262a1266df87bc6a41c6eb4b03c2e956e8970c
+  2) Customer Analytics and A/B Testing in Python https://www.datacamp.com/statement-of-accomplishment/course/49f29779c9ff5431c418fecdc2fe6c10c073ffdb
 
